@@ -1,0 +1,9 @@
+{
+    "redundancyFactor": 3,
+    "port": 8080,
+    "chunkSize": 4096,
+    "workerHealthcheckInterval": 10000,
+    "failedHealthcheckCountBeforeRemovingWorker": 3,
+    "persistantStoragePath": "data",
+    "logPath": "logs"
+}

@@ -1,0 +1,1 @@
+mvn package && java -cp target/fsMaster-1.0-SNAPSHOT.jar com.fs.App
